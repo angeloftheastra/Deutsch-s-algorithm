@@ -25,7 +25,7 @@ elif num1==0:
     circut.h(1)
     circut.cx(0,1)
     circut.h(0)
-    circut.measure(0,1)
+    circut.measure(0,0)
     print("Function is balanced")
 
 
